@@ -1,0 +1,8 @@
+{
+  "name": "Copy of OceanEye - Fishing & UAV Patrol",
+  "description": "A high-fidelity fishing map application with real-time boat tracking, UAV monitoring, weather forecasting, and catch statistics. Features a dark glassmorphic theme with vibrant orange accents.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
